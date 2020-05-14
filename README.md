@@ -1,5 +1,5 @@
-# Project_1_SP500_Sector_Summary
-Project 1 using interactive widgets to allow user to choose stocks by sector and perform correlation analysis. See correlation and trends among the market sectors
+# Project SP500 Sector Summary
+This project illustrates the SP500 real-time performance by sector and by the stocks that make up each sector. Most importantly, our team dedicated themselves to making this project user friendly, so that any interested investor can operate and perform correlation analysis along with simple time series analysis. See below to get an overview of our interactive dashboard.  
 
 ![](Images/sector_performance_analysis.gif)
 
